@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\okulproje\okulproje\bin\Debug\okulproje.exe.config
+C:\Users\Monster\source\repos\okulproje\okulproje\bin\Debug\okulproje.exe
+C:\Users\Monster\source\repos\okulproje\okulproje\bin\Debug\okulproje.pdb
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.Form1.resources
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.Properties.Resources.resources
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.exe
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.pdb
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.frm_ogrencinotlar.resources
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.frm_ogretmen.resources
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.frm_kulupler.resources
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.frm_dersler.resources
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.frm_ogrenci.resources
+C:\Users\Monster\source\repos\okulproje\okulproje\obj\Debug\okulproje.frm_sınavnotları.resources
